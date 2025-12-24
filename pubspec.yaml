@@ -1,0 +1,27 @@
+name: arabic_reshaper
+description: "A Dart package to reshape Arabic text for correct rendering."
+version: 0.0.1
+homepage: https://github.com/G705-Ghilan/arabic_reshaper
+
+environment:
+  sdk: ^3.10.4
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+
+topics:
+  - arabic
+  - text
+  - rtl
+  - flutter
+  - reshaper
+  - text rendering
